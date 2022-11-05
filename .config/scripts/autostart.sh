@@ -12,3 +12,15 @@ synclient TapButton2=3
 
 # Configure the hotkey to change keyboard layout
 setxkbmap us,ru -option 'grp:alt_shift_toggle'
+
+# Configure Xrandr for 3 monitors
+monitorsv3
+
+# Set the wallpaper
+feh --bg-fill ~/dotfiles/background.jpg
+
+# Start Picom compositor
+# picom &
+
+# Start Dunst notification daemon
+dunst &
