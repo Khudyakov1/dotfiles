@@ -1,0 +1,19 @@
+swipe:
+  3:
+    left:
+      command: 'xdotool key Super_L+j'
+    right:
+      command: 'xdotool key Super_L+k'
+    up:
+      command: 'xdotool key Super_L+Shift+Return'
+    down:
+      command: 'xdotool key Super_L+c'
+  4:
+    left:
+      command: 'xdotool key Super_L+Shift+backslash'
+    right:
+      command: 'xdotool key Super_L+Shift+Tab'
+    up:
+      command: 'xdotool key Super_L+m'
+    down:
+      command: 'xdotool key Super_L+t'

@@ -24,3 +24,6 @@ feh --bg-fill ~/dotfiles/background.jpg
 
 # Start Dunst notification daemon
 dunst &
+
+# Start fusuma to be able to multitouch gestures
+fusuma &
