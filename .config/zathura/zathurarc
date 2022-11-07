@@ -1,0 +1,7 @@
+set guioptions none
+set adjust-open "width"
+
+# Using the dark mode by default
+set recolor "true"
+# Setting the keybind to exit dark mode
+map <C-i> recolor
